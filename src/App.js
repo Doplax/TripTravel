@@ -22,11 +22,11 @@ function App() {
               </div>
             </div>
             <div class="w-full h-full">
-              <img src="./img/sanFrancisco.jpg" alt="san francisco city" />
+              {/*<img src="./img/sanFrancisco.jpg" alt="san francisco city" />*/}
             </div>  
           </div>
           <div class="p-20" id="recommendations">
-            <div class="w-48 h-64 shadow-md rounded-lg">
+            <div class="Card">
               <div class="w-full h-3/5 rounded-t-lg bg-norway bg-cover"></div>
               <div class="w-full h-2/5 bg-secondary rounded-b-lg">
                 <p class="text-white font-bold text-xl px-4 py-2">Norway</p>
