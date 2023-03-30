@@ -22,7 +22,7 @@ function App() {
               </div>
             </div>
             <div class="w-full h-full">
-              {/*<img src="./img/sanFrancisco.jpg" alt="san francisco city" />*/}
+              <img src="./img/sanFrancisco.jpg" alt="san francisco city" />
             </div>  
           </div>
           <div class="p-20" id="recommendations">
